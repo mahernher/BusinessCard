@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="nombre">Maria Hernani Hernaez</string>
+    <string name="puesto">Android Developer Extraordinaire</string>
+    <string name="telefono">123456789</string>
+    <string name="email">mahernaniher@gmail.com</string>
+    <string name="compartir">mhernani@android.es</string>
+</resources>
